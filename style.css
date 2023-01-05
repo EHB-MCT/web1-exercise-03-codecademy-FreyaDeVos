@@ -1,5 +1,5 @@
 body {
-    background-color: blue;
+    background-color: beige;
     font-family: sans-serif;
     margin: 50px;
 }
@@ -11,4 +11,19 @@ h1 {
 p {
     color: pink;
     margin-bottom: 40px;
+}
+
+.grijs {
+    color: green;
+}
+
+a:hover {
+    background-color: darkgoldenrod;
+    padding-top: 30px;
+    color: lightcoral;
+    text-decoration: dashed;
+    text-decoration: double;
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
 }
