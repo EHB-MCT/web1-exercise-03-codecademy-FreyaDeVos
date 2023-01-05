@@ -1,5 +1,14 @@
 body {
-    background-color: #e9eaea;
+    background-color: blue;
     font-family: sans-serif;
     margin: 50px;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: pink;
+    margin-bottom: 40px;
 }
